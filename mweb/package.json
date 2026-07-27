@@ -1,0 +1,16 @@
+{
+  "name": "railway-verified-node-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Node.js Express app for deployment from GitHub to Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
